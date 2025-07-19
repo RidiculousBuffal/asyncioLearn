@@ -1,4 +1,4 @@
-# Python asyncio并发编程详细教程
+# Python asyncio并发编程详细教程 [Gen By Manus.ai]
 
 ## 目录
 
